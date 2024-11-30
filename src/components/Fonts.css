@@ -1,9 +1,9 @@
 @font-face {
-  src: url("../assets/yellowtail-regular.woff") format("woff");
+  src: url("../assets/fonts/yellowtail-regular.woff") format("woff");
   font-family: "Yellowtail";
 }
 
 @font-face {
-  src: url("../assets/roboto-regular.woff") format("woff");
+  src: url("../assets/fonts/roboto-regular.woff") format("woff");
   font-family: "Roboto";
 }
